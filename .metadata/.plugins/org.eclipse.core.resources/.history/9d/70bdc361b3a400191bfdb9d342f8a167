@@ -1,0 +1,15 @@
+package com.mischen.it.swagger_test;
+
+import org.springframework.boot.SpringApplication;
+
+/**
+ * Hello world!
+ *
+ */
+@SpringBootApplication
+public class SwaggerTest 
+{
+	 public static void main(String[] args) {
+	        SpringApplication.run(SwaggerTest.class, args);
+	    }
+}

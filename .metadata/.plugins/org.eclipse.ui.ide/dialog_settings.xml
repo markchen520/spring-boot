@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eshop-dataaggr-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eshop-datasync-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eshop-datalink-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eshop-inventory-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eshop-price-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eureka-server"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：181节-195节课件资料\第185节：商品详情页动态渲染系统：所有服务最终修改以及jenkins+docker部署\代码\eshop-product-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第二版\亿级流量电商缓存课程：159节-169节课件资料\第161节：商品详情页动态渲染系统：基于Spring Cloud开发价格服务\代码\eshop-price-service"/>
+			<item value="F:\BaiduNetdiskDownload\03.大型电商架构-缓存架构+高可用服务架构+微服务架构\第一版\亿级流量电商缓存课程：第57节-69节课件资料\65_讲给Java工程师的史上最通俗易懂Storm教程：纯手敲WordCount程序\代码\storm-helloworld"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

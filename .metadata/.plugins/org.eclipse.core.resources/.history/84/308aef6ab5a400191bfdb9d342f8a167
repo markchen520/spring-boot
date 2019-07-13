@@ -1,0 +1,15 @@
+package com.mischen.it.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import io.swagger.annotations.Api;
+
+@Api("客服接口")
+@Controller
+@RequestMapping("/checkcenter")
+public class CheckCenterController {
+	
+	
+
+}

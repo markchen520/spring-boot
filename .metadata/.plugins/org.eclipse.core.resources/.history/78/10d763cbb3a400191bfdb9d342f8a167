@@ -1,0 +1,9 @@
+package com.mischen.it.config;
+
+@Configuration
+@EnableSwagger2
+public class SwaggerConfig {
+	
+	
+
+}

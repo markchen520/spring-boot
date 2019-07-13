@@ -1,0 +1,5 @@
+package com.mischen.it.entity;
+
+public class User {
+
+}

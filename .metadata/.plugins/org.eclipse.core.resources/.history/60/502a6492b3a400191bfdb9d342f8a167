@@ -1,0 +1,5 @@
+package com.mischen.it.config;
+
+public class SwaggerConfig {
+
+}

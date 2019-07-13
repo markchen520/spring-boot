@@ -1,0 +1,18 @@
+1559607889717	Delete element
+1559607896558	Delete element
+1559608873402	Rename type 'UserServiceApplication'
+1559691674090	Copy compilation unit
+1559691778119	Copy compilation unit
+1559691825646	Copy compilation unit
+1559691947725	Copy compilation unit
+1559692874282	Copy compilation unit
+1559693463870	Copy compilation unit
+1559693530422	Copy compilation unit
+1559693667955	Copy compilation unit
+1560000876660	Rename package 'com.roncoo.shop.product'
+1560000892148	Rename package 'com.roncoo.shop.product.mapper'
+1560000903610	Rename package 'com.roncoo.shop.product.model'
+1560000912779	Rename package 'com.roncoo.shop.product.rabbitmq'
+1560000922028	Rename package 'com.roncoo.shop.product.service'
+1560000931619	Rename package 'com.roncoo.shop.product.service.impl'
+1560000941527	Rename package 'com.roncoo.shop.product.web.controller'
